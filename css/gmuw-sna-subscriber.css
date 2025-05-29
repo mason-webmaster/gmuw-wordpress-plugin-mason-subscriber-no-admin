@@ -1,0 +1,12 @@
+/* custom stylesheet for subscribers from the Mason WordPress: Subscriber No Admin plugin */
+
+
+/* change background color of WP admin bar */
+#wpadminbar {
+	background-color:#005239;
+}
+
+/* move the custom WP admin bar logout link to the right side */
+#wpadminbar #wp-admin-bar-logout {
+	float:right;
+}
